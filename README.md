@@ -29,7 +29,7 @@ The main page has a button which ables to start the Spotify authentification.
 
 #### 2. Spotify authentification
 
-The best suited way for this to project to authentificate is the [Authorization Code Flow](https://developer.spotify.com/documentation/web-api/tutorials/code-flow). Here is the diagram from the documentation which explains the steps:
+The best suited way for this project to authentificate is the [Authorization Code Flow](https://developer.spotify.com/documentation/web-api/tutorials/code-flow). Here is the diagram from the documentation which explains the steps:
 
 ![Authorization Code Flow diagram](https://developer.spotify.com/images/documentation/web-api/auth-code-flow.png)
 
